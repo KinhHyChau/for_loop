@@ -46,7 +46,7 @@ let signin = function (user, pass){
 	if (isUserValid(user, pass)){
 		console.log(newsfeed)	
 		for (i of newsfeed) {
-			document.write(i.username + ': ' + i.timeline)
+			document.write(i.username + ': ' + i.timeline + '<br>')
 		}
 	} else{
 		alert("You enter wrong U or P");
