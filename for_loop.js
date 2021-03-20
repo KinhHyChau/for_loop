@@ -1,10 +1,10 @@
 let database = [
 	{
-		username: "royalbank",
+		username: "royalbankofcanada",
 		password: "good"
 	},
     {
-		username: "scotia",
+		username: "scotiabank",
 		password: "fine"
 	},
     {
