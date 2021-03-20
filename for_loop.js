@@ -10,6 +10,9 @@ let database = [
     {
 		username: "cibc",
 		password: "great"
+
+		username: "atb"
+		password: "wonderful"
 	}
 ];
 
