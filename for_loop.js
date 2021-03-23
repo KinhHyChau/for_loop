@@ -3,15 +3,15 @@ let database = [
 		username: "royalbank",
 		password: "good"
 	},
-    {
+    	{
 		username: "scotia",
 		password: "fine"
 	},
-    {
+    	{
 		username: "cibc",
 		password: "great"
-
-		username: "atb"
+    	},
+	{	username: "atb",
 		password: "wonderful"
 	}
 ];
